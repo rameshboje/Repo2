@@ -1,0 +1,99 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Django-specific files
+*.sqlite3
+db.sqlite3
+*.log
+local_settings.py
+
+# Static and media files
+staticfiles/
+media/
+
+# Environment variables
+.env
+*.env
+
+# Secrets and sensitive data
+secrets.json
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Node modules (if using frontend dependencies)
+node_modules/
+
+# Celery & Redis
+celerybeat-schedule
+celerybeat.pid
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Migrations (optional, if you regenerate them often)
+**/migrations/*.py
+!**/migrations/__init__.py# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Django-specific files
+*.sqlite3
+db.sqlite3
+*.log
+local_settings.py
+
+# Static and media files
+staticfiles/
+media/
+
+# Environment variables
+.env
+*.env
+
+# Secrets and sensitive data
+secrets.json
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Node modules (if using frontend dependencies)
+node_modules/
+
+# Celery & Redis
+celerybeat-schedule
+celerybeat.pid
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Migrations (optional, if you regenerate them often)
+**/migrations/*.py
+!**/migrations/__init__.py
